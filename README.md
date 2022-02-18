@@ -10,3 +10,11 @@ http://localhost:8080/getTempByCodePostal/98000
 
 consulter la liste des météos des différentes villes d’un pays
 http://localhost:8080/getTempByPays/Espagne
+
+
+## User Story 2:
+
+http://localhost:3333/getWeather/Nice
+
+CIRCUIT BREAKER ENABLED!!!No Response From Weather Service at this moment. Service will be back shortly
+
