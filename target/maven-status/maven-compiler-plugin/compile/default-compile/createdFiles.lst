@@ -1,0 +1,4 @@
+com\howtodoinjava\demo\model\Weather.class
+com\howtodoinjava\demo\configuration\Swagger2UiConfiguration.class
+com\howtodoinjava\demo\controller\WeatherController.class
+com\howtodoinjava\demo\SpringBootDemoApplication.class
