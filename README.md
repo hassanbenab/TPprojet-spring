@@ -23,5 +23,6 @@ CIRCUIT BREAKER ENABLED!!!No Response From Weather Service at this moment. Servi
 Swag swagger
 http://localhost:8080/swagger2-demo/swagger-ui.html
 
-![alt text](https://www.zupimages.net/up/22/07/a8vd.png)
+![alt text](https://www.zupimages.net/up/22/07/n08w.png)
+![alt text](https://www.zupimages.net/up/22/07/3owv.png)
 
