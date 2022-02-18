@@ -18,3 +18,10 @@ http://localhost:3333/getWeather/Nice
 
 CIRCUIT BREAKER ENABLED!!!No Response From Weather Service at this moment. Service will be back shortly
 
+## User Story 3:
+
+Swag swagger
+http://localhost:8080/swagger2-demo/swagger-ui.html
+
+
+
